@@ -1,0 +1,10 @@
+ 0 x undefined= NaN 
+ 1 x undefined= NaN 
+ 2 x undefined= NaN 
+ 3 x undefined= NaN 
+ 4 x undefined= NaN 
+ 5 x undefined= NaN 
+ 6 x undefined= NaN 
+ 7 x undefined= NaN 
+ 8 x undefined= NaN 
+ 9 x undefined= NaN 
